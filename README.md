@@ -9,7 +9,7 @@
 3. Intsall library React
 - npm install --save react react-dom
 
-4. Install webpack
+4. Install webpack<br/>
 *** Command ***
 - npm install --save-dev webpack webpack-cli@3 webpack-dev-server
 *** Note ***
